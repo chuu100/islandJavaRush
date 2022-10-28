@@ -4,7 +4,139 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49b0e09c-a7ed-43a0-a817-b0f41d58cd8f" name="Changes" comment="" />
+    <list default="true" id="49b0e09c-a7ed-43a0-a817-b0f41d58cd8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/!birds_ small flying.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/Cow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/Sheep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/backpack animals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bear cubs_large pandas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bear_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bear_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bear_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bear_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bear_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bear_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bear_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bear_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bird_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bird_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bird_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bird_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bird_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bird_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bird_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/bird_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/cow_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/cow_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/cow_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/cow_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/cow_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/cow_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/cow_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/cow_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/deer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/deer_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/deer_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/deer_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/deer_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/deer_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/deer_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/deer_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/deer_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/duck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/duck_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/duck_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/duck_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/duck_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/duck_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/duck_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/duck_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/duck_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/ducks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/eagle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/eagle_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/eagle_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/eagle_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/eagle_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/eagle_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/eagle_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/eagle_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/eagle_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/fox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/fox_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/fox_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/fox_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/fox_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/fox_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/fox_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/fox_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/fox_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/goat_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/goat_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/goat_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/goat_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/goat_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/goat_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/goat_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/goat_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/goats.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/horse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/horse_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/horse_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/horse_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/horse_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/horse_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/horse_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/horse_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/horse_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/mouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/mouse_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/mouse_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/mouse_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/mouse_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/mouse_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/mouse_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/mouse_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/mouse_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/rabbit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/rabbit_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/rabbit_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/rabbit_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/rabbit_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/rabbit_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/rabbit_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/rabbit_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/rabbit_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/sheep_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/sheep_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/sheep_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/sheep_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/sheep_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/sheep_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/sheep_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/sheep_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/snake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/snake_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/snake_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/snake_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/snake_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/snake_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/snake_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/snake_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/snake_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/wolf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/wolf_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/wolf_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/wolf_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/wolf_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/wolf_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/wolf_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/wolf_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pict/wolf_up_2.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +151,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GD5f5CkrvSgejJgTlAClIydJkq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -33,6 +170,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/a.mokropolov/Coding/finishedProjects/islandModule2",
     "project.structure.last.edited": "Modules",
@@ -101,12 +239,23 @@
       <workItem from="1666789147080" duration="17373000" />
       <workItem from="1666874298040" duration="23418000" />
       <workItem from="1666912926759" duration="5376000" />
-      <workItem from="1666949283679" duration="316000" />
+      <workItem from="1666949283679" duration="1305000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
